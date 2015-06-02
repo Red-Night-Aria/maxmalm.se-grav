@@ -1,0 +1,8 @@
+1431719623
+s:801:"<p>A couple of months ago I made a small site to track parcels sent via Posten (Swedish postal service) with Pushbullet.</p>
+<p>It's really simple, you put in you Pushbullet access token, your tracking ID and put a name for the event (if you call it "headphones", every push will have that title). You'll get a push confirming it works then you'll get a push every time the status of the parcel changes (checks every 5 minutes). Once the status is set to delivered</p>
+<p>Enjoy! <a href="http://code.maxmalm.se/posten">http://code.maxmalm.se/posten</a></p>
+<h2>The UI</h2>
+<p><img style="" src="/user/pages/blog/2015-01-12-pushbullet-posten/posten.png?65393bbf" /></p>
+<h2>The push at pushbullet.com</h2>
+<p><img style="" src="/user/pages/blog/2015-01-12-pushbullet-posten/posten2.png?65393bbf" /></p>";
