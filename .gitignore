@@ -1,2 +1,8 @@
 /vendor/
+cache/*
+assets/*
+logs/*
+images/*
+user/data/*
+.sass-cache
 composer.phar
