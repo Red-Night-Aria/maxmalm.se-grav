@@ -2,6 +2,7 @@
 cache/*
 assets/*
 logs/*
+grav.log
 images/*
 user/data/*
 .sass-cache
