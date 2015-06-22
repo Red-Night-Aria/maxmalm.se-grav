@@ -21,3 +21,5 @@ Calling their switchboard asking for our KAM and if he still works there I'm tol
 I'm going crazy here. While I'm writing this down to vent my anger I get a call from our old KAM. He says that our current KAM quit, but he's not sure if we got the info about it. Great. He doesn't know if he's our new KAM as well. I feel like I'm taking crazy pills. He's gonna look at my ticket and see who's our new KAM. Maybe this can be solved this week. Maybe not.
 
 It's time for a license renewal soon. Let's see if they can send the license file on time this year. I hate it when no one can do any work and I'm at fault. 
+
+Edit: Our first KAM called again. We have a new one, but he's on vacation. Yay!
