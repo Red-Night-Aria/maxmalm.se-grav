@@ -475,16 +475,8 @@ html, body, .summer-post-container, .summer-post-header {
   background: #8e44ad;
   color: #fff; }
 
-pre, a, code {
-  word-break: break-all; /* webkit */
-  word-wrap: break-word;
-  white-space: pre;
-  white-space: -moz-pre-wrap; /* fennec */
-  white-space: pre-wrap;
-  white-space: pre\9; /* IE7+ */
-  word-wrap: break-word;
-}
 pre {
+  word-wrap: break-word;
   margin-bottom: 1.5625rem; }
 
 code {

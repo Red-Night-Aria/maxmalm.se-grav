@@ -1,3 +1,22 @@
+# v1.2.0
+## 09/04/2015
+
+1. [](#bugfix)
+	* Various UI fixes
+
+# v1.1.1
+## 08/31/2015
+
+1. [](#bugfix)
+	* Fixed 404 when clicking on tag while viewing post
+    * Fix not using date in post header
+
+# v1.1.0
+## 08/25/2015
+
+1. [](#improved)
+    * Added blueprints for Grav Admin plugin
+
 # v1.0.4
 ## 03/01/2015
 
