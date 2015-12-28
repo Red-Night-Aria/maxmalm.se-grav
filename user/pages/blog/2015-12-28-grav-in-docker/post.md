@@ -14,10 +14,6 @@ It can be used in two ways, either you run the image and mount a folder (`grav/u
 
 The other way you can use it is to bundle you app with and push it to a repository (how this blog is server, see [https://hub.docker.com/r/benjick/maxmalm.se-grav/](https://hub.docker.com/r/benjick/maxmalm.se-grav/)). Every time I push this repo to Github the Docker hub is alerted and creates a new image. Then on my server I check for new images every X minutes and download it if it's newer (I'll write a post about it sometime later).
 
-It's not perfect yet, it doesn't work too well if you don't supply your own `user`-folder but I'll fix it soon enough. In the meantime you can just create a new Grav-application from a skeleton.
-
 Full code and readme at [https://github.com/benjick/docker/tree/master/grav](https://github.com/benjick/docker/tree/master/grav)
 
 And if you want to see how I use it for this blog check out [https://github.com/benjick/maxmalm.se-grav](https://github.com/benjick/maxmalm.se-grav)
-
-Edit: Testing an update
