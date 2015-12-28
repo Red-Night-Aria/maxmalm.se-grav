@@ -20,3 +20,9 @@ logs:
 
 clean:
 	docker kill $(name) && docker rm $(name)
+
+cache:
+	docker exec $(name) bin/grav clear-cache
+
+gpm:
+	docker exec $(name) bin/gpm install $(i)
